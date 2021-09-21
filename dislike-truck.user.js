@@ -19,8 +19,8 @@
 
 $(function() {
 
-  var CLIENT_ID = '595110168346-46igp17sotrer74ld1rbg4onc5smse60.apps.googleusercontent.com',
-      API_KEY = 'AIzaSyByJQv-QxraMe7iNFEszkcnNk8JfPRTljY',
+  var CLIENT_ID = '136122919902-nomp3l5kc1dlkindrndtlv1rdn316u3d.apps.googleusercontent.com',
+      API_KEY = 'AIzaSyAmcGMdd8fZLDv6UrkcIf8e_xEOmWWeyBg',
       SCOPES = 'https://www.googleapis.com/auth/youtube',
       PER_PAGE = 50,
       DELAY_TIME = 500,
